@@ -12,4 +12,4 @@ client.user.setGame(`مش شايفكم`,"http://twitch.tv/مش شايفكم")
 client.user.setStatus("dnd")
 });
 
-client.login('NTk3MTUxNDI2MTc4ODQyNjM1.XSEZPw.U1AhhFpP1WC-1dMj67AqUdDuVBw');// لا تغير فيها شيء
+client.login('NTk4MDczNTE4ODczMjQ3NzQ1.XSRW8A.wWxbMHPZE1WKLZzyyC46wcNdIus');// لا تغير فيها شيء
